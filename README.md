@@ -1,7 +1,7 @@
 # Github Search App
 
 #### This is a web page where a person can search for a github user by typing in their names. (c) 2019
-#### By **Raymond Yegon**
+#### By **Peter Magecha**
 ## Description
 
 The website is built using Angular framework and bootstrap for styling. The website help users to search people on github through their typing in their github names.
@@ -72,7 +72,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Copyright (c) 2019 **Raymond Yegon**
+Copyright (c) 2019 **Peter Magecha**
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
