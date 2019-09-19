@@ -1,5 +1,6 @@
 # Github Search App
 
+
 #### This is a web page where a person can search for a github user by typing in their names. (c) 2019
 #### By **Peter Magecha**
 ## Description
